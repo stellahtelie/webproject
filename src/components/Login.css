@@ -1,0 +1,37 @@
+.form{
+    height:80vh;
+    width:50vh;
+    border:3px solid darkred;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+    padding:2%;
+    border-radius:15px;
+}
+h1{
+    width:100%;
+    display:grid;
+    place-items:center;
+    font-size:xx-large;
+    font-weight:bold;
+    color:hotpink;
+}
+.reg{
+    height:100vh;
+    width:100%;
+    display:grid;
+    place-items:center;
+}
+.input{
+    height:8vh;
+}
+button{
+    width:50%;
+    display:grid;
+    place-items:cecnter;
+    background-color:hotpink;
+    border-radius:20px;
+    height:5vh;
+    margin-left:25%;
+
+}

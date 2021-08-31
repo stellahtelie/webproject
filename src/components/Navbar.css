@@ -1,0 +1,21 @@
+.Navigation{
+    color:purple;
+    display:flex;
+    align-items:center;
+    Justify-content:space-around;
+    background-color:pink;
+    height:10vh;
+
+}
+ul{
+    display:flex;list-style:none;
+}
+ul>li{
+    margin-left:25%;
+    font-size:20px
+}
+.logo{
+    height:70px;
+    width:100px;
+    margin-left:-20%
+}
